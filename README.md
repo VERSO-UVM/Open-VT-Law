@@ -3,10 +3,14 @@
 ## Overview
 Currently Vermont legal statutes are publically stored as html [The Vermont Statutes Online](https://legislature.vermont.gov/statutes/), and amendments (Bill & Resolutions) are seperate documents that call out specific changes seperate from the law. We believe this both makes it much harder to understand how law changes over time, and is prevents easy computational analysis that could help us understand the current and potential future implications of law.
 
-Interesting Read: [Democratizing the Law with Open Data](https://law.mit.edu/pub/democratizingthelawwithopendata/release/2)
+### Interesting Read
+[Democratizing the Law with Open Data](https://law.mit.edu/pub/democratizingthelawwithopendata/release/2)
 [https://arstechnica.com/tech-policy/2018/11/how-i-changed-the-law-with-a-github-pull-request/](https://arstechnica.com/tech-policy/2018/11/how-i-changed-the-law-with-a-github-pull-request/)
 
-USLM Schema
+### District of Columbia law (statutes and code) in XML format.
+[https://github.com/DCCouncil/law-xml](https://github.com/DCCouncil/law-xml)
+
+### USLM Schema
 In support of the United States Legislative Branch XML Working Group and in accordance with 2 U.S.C. 181, the Government Publishing Office (GPO) is making the United States Legislative Markup (USLM) XML schema available as an authoritative source on GitHub. 
 [https://github.com/usgpo/uslm](https://github.com/usgpo/uslm)
 
