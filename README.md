@@ -4,6 +4,12 @@
 Currently Vermont legal statutes are publically stored as html [The Vermont Statutes Online](https://legislature.vermont.gov/statutes/), and amendments (Bill & Resolutions) are seperate documents that call out specific changes seperate from the law. We believe this both makes it much harder to understand how law changes over time, and is prevents easy computational analysis that could help us understand the current and potential future implications of law.
 
 Interesting Read: [Democratizing the Law with Open Data](https://law.mit.edu/pub/democratizingthelawwithopendata/release/2)
+[https://arstechnica.com/tech-policy/2018/11/how-i-changed-the-law-with-a-github-pull-request/](https://arstechnica.com/tech-policy/2018/11/how-i-changed-the-law-with-a-github-pull-request/)
+
+USLM Schema
+In support of the United States Legislative Branch XML Working Group and in accordance with 2 U.S.C. 181, the Government Publishing Office (GPO) is making the United States Legislative Markup (USLM) XML schema available as an authoritative source on GitHub. 
+[https://github.com/usgpo/uslm](https://github.com/usgpo/uslm)
+
 
 Open VT Law is an open-source project designed to simplify the process of extracting information from html containing Vermont Statutes and Laws and place it into structured json format as well as a simple single text format for reading. The goal of this tool is to automate the process of downloading the statutes from the State of Vermont website, convert those into a single txt file and a json file with metadata. Additional goals are using the version control to demostrate a new way to view amendments as a pull request. The hope is to then demo this to the State of Vermont and propose new ways that they can publically share the law.
 
